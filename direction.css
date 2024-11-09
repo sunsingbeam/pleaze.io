@@ -1,0 +1,12 @@
+article p{
+    text-indent: 10px;
+    margin:5px;
+    padding:5px;
+}
+
+article{
+    float:left;
+    overflow-y: auto;
+  }
+
+ 

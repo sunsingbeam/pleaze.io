@@ -1,0 +1,21 @@
+#Me{
+    display: block;
+    width: 250px;
+    margin: 20px;
+}
+
+ 
+article{
+    background-image: url("back_test.gif");
+    
+}
+#selfcontent{
+    display: flex;
+}
+
+#selfintro{
+    background-color: aqua;
+    padding: 50px;
+    margin:30px 15px 15px 40px;
+    border-radius: 10%;
+}

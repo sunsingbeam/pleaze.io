@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1{
+    margin:40px 20px 30px 20px;
+    color: aliceblue;
+    font-size: 80px;
+ 
+}
+
+body{
+    background-image: url("back_test.gif");
+    text-align: center;
+    margin:0;
+    padding:0;
+    font-family: 'NanumSeongSirCe';
+}
+footer{
+    width: 100%;
+    position:absolute;
+    background-color: rgb(24, 24, 24);
+    color:azure;
+    bottom:0%;
+}
+a{
+    padding:10px;
+    
+    background-color: rgb(67, 56, 94);
+    text-decoration-line: none;
+    color: inherit;
+    color:rgb(74, 255, 255);
+    font-size: 30px;
+    -webkit-text-stroke-width: 0.7px;
+    -webkit-text-stroke-color: rgb(107, 66, 255);
+    
+}
+
+div{
+ 
+    width: 300px;
+    height:300px;
+    margin:30px auto;
+    border-radius: 100%;
+    border: 2px solid ;
+    border-color: aqua;
+    background-color: rgba(207, 248, 255, 0.642);
+    padding: 50px;
+ 
+ 
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
